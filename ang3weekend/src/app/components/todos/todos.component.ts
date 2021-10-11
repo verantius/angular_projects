@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Task } from 'src/app/models/task';
-import { TaskListComponent } from '../task-list/task-list.component';
-
+import { TasksList } from 'src/app/models/tasks-list';
+import da
 @Component({
   selector: 'app-todos',
   templateUrl: './todos.component.html',
